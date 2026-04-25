@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yu Lu"
-  avatar           : "images/profile.svg"
+  avatar           : "images/profile.jpg"
   bio              : "Doctor of Medicine student at the University of Melbourne"
   location         : "Melbourne, VIC"
   employer         :
