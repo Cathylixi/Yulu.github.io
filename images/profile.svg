@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Yu Lu profile avatar</title>
+  <desc id="desc">A simple initials avatar for Yu Lu.</desc>
+  <rect width="240" height="240" rx="120" fill="#f0f4f8"/>
+  <circle cx="120" cy="92" r="42" fill="#7aa7d9"/>
+  <path d="M48 210c12-45 42-70 72-70s60 25 72 70" fill="#7aa7d9"/>
+  <text x="120" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#2f4050">YL</text>
+</svg>
