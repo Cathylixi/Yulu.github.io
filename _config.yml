@@ -9,6 +9,7 @@
 title                    : "Yu Lu"
 description              : ""
 repository               : "Cathylixi/Yulu.github.io"
+baseurl                  : "/Yulu.github.io"
 theme                    : null
 google_scholar_stats_use_cdn : true
 
